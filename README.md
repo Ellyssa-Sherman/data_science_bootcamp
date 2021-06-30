@@ -1,4 +1,5 @@
 # data_science_bootcamp
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ellyssa-Sherman/data_science_bootcamp.git/HEAD)
 
 ## This is a repository created for the first assignment of the data science course BSGP 7030.  Assignment is called OSU Code / GitLab / GitHub. In updating this file I have practiced using myBinder to update, commit, and push edits.
 
